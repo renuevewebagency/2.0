@@ -1,0 +1,60 @@
+section.submain{
+    background-color: #FBFBFB;
+}
+.submain-tittle{
+    font-size: 16px;
+  font-family: 'Noto Sans', sans-serif;
+  padding: 5px;
+
+
+}
+section.content{
+height: 220px;
+}
+
+section.subcontent{
+    background-color: #FBFBFB;
+    height: 620px;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+section.subcontent.fondo2{
+    background-color: white;
+}
+a{
+    color: #D82948;
+}
+a:hover{
+    color: #D82948;
+}
+.diseñoweb-subtexto{
+    text-align: center;
+}
+.diseñoweb-maintext{
+ padding: 30px;
+}
+.servicios2{
+   
+    margin-top: 16px;
+  
+    font: 30px 'Gilroy', sans-serif;
+    font-weight: 500;
+  
+  }
+  .servicios3{
+   
+    margin-top: 16px;
+  
+    font: 20px 'Gilroy', sans-serif;
+    font-weight: 500;
+  
+  }
+  .text-servicios2{
+    text-align: justify;
+    margin-top: 16px;
+    margin-bottom: 40px;
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+  }
